@@ -2,6 +2,8 @@
 
 This is a repository of materials presented in an introductory coding session in Python.
 
+For this class you will need software that can open Jupyter Notebooks. Consider installing [Anaconda](https://www.anaconda.com/docs/getting-started/main)!
+
 ## Further Readings
 
 [Python for Everyone](https://www.py4e.com/book)
